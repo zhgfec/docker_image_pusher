@@ -9,4 +9,5 @@ linuxserver/jackett:latest
 homeassistant/home-assistant:latest
 19970688/nastools-bt:latest
 kodcloud/kodbox:latest
+haroldli/xiaoya-tvbox：latest
 #支持指定架构
